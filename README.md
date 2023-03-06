@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">
+<div style=align: "center;">
  <h3>Hello there! I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)  </h4>
  <br/>
 
