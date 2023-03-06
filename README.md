@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-#### Hello there! I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)
+ <h4>Hello there! I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :) </h4>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekhihart&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
