@@ -2,7 +2,7 @@
 <h3 align="center">  Hello there! </h3>
  <h5 align="center">I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)  </h5>
  <br/>
-
+--
 
 
 
