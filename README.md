@@ -2,8 +2,6 @@
 <h3 align="center">  Hello there! </h3>
  <h5 align="center">I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)  </h5>
  <hr>
- <br/>
-
 
 <h3 align="center">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekhihart&show_icons=true&theme=ayu-mirage&hide_border=true&locale=en&layout=compact" alt="mekhihart" /></p>
