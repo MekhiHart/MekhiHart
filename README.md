@@ -1,6 +1,6 @@
 
 <div style=align: "center;">
- <h5>Hello there! I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)  </h5>
+ <h5 style= align: "center">Hello there! I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)  </h5>
  <br/>
 
 
