@@ -3,20 +3,17 @@
  <h3>Hello there! I'm Mekhi Hart, currently a undergrad computer science student at CSULB. Feel free to look at my projects in my repo! :)  </h4>
  <br/>
 
- <h3 align="center">Stats:</h3>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mekhihart&layout=compact&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekhihart&hide=issues,contribs&show_icons=true&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
- 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekhihart&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="mekhihart" /></p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekhihart&show_icons=true&theme=dracula&hide_border=true&locale=en&hide=issues,contribs" alt="mekhihart" /></p>
 
 
 
-  
 </div>
+
+<h3 align="center">Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mekhihart&show_icons=true&theme=ayu-mirage&hide_border=true&locale=en&layout=compact" alt="mekhihart" /></p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekhihart&show_icons=true&theme=ayu-mirage&hide_border=true&locale=en&hide=issues,contribs" alt="mekhihart" /></p>
+
 
 <!--
 **MekhiHart/MekhiHart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
